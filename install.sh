@@ -9,7 +9,7 @@ SCRIPT_URL="https://raw.githubusercontent.com/erfanesmizadh/marznode/main/instal
 INSTALL_DIR="/var/lib/marznode"
 LOG_FILE="${INSTALL_DIR}/marznode.log"
 COMPOSE_FILE="${INSTALL_DIR}/docker-compose.yml"
-GITHUB_REPO="https://github.com/marzneshin/marznode.git"
+GITHUB_REPO="https://github.com/erfanesmizadh/marznode.git"
 GITHUB_API="https://api.github.com/repos/XTLS/Xray-core/releases"
 
 declare -r -A COLORS=(
